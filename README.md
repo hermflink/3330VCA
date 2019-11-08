@@ -10,5 +10,7 @@ The PCB is 9.5 x 5.5 cm and has no PCB-mounting of potmeters, switches, jacks; t
 
 The PCB  has a fault: the connection between pin 5 and 8 of AS3330 on the backplane should be removed. Instead, pin 5 should be connected to R15/R17 as the schema points out.
 
+Loosely based on http://www.digisound80.co.uk/digisound/modules/80-9_files/80-9_ETI.pdf
+
 R4, C2, R18 and C8 can be safely left out.
 
