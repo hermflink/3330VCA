@@ -1,6 +1,6 @@
 # 3330VCA
 
-Kicad project files of a AS3330 based VCA. Part of a modular DIY synth project, other modules are available in other repositories. Not entirely compatible with a CEM3330 as this would require a diode to ground on pin 4.
+Kicad project files of a AS3330 based dual VCA. Part of a modular DIY synth project, other modules are available in other repositories. Not entirely compatible with a CEM3330 as this would require a diode to ground on pin 4.
 
 Used the Audio.lib from https://kicad.github.io/symbols/Audio to extend the Kicad library for the AS3330 component.
 
